@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="https://github.com/maqleo123/maqleo123/blob/main/Sin%20t%C3%ADtulo.png?raw=true" width="100%" alt="Banner de Leonel Maqueda Reyes" />
+  <img src="https://github.com/maqleo123/maqleo123/blob/main/banner.png?raw=true" width="100%" alt="Banner de Leonel Maqueda Reyes" />
 </p>
+
 
 
 <h1 align="center" style="font-family: 'Fira Code', monospace;">
