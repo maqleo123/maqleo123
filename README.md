@@ -1,8 +1,7 @@
 <p align="center">
-  <a href="https://newskill.com.mx" target="_blank">
-    <img src="https://your-static-banner-url.com/banner.png" alt="Banner personalizado" width="100%" style="max-width: 800px; border-radius: 10px;" />
-  </a>
+  <img src="https://github.com/maqleo123/maqleo123/blob/main/Sin%20t%C3%ADtulo.png?raw=true" width="100%" alt="Banner de Leonel Maqueda Reyes" />
 </p>
+
 
 <h1 align="center" style="font-family: 'Fira Code', monospace;">
   ¡Hola, soy <span style="color:#FF6F61">Leonel Maqueda Reyes</span> 👋!
