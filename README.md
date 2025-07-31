@@ -68,7 +68,7 @@
 ## 🌐 Contacto & Redes
 
 <p align="center">
-  <a href="https://instagram.com/maq_leo" target="_blank">
+  <a href="https://instagram.com/maql_eo" target="_blank">
     <img src="https://img.shields.io/badge/Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
   <a href="mailto:reyesmaqueda69@gmail.com">
